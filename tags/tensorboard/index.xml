@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>TensorBoard - 标签 - 简单的I电脑のBLOG</title>
+        <link>https://www.simpleicomputer.com/tags/tensorboard/</link>
+        <description>TensorBoard - 标签 - 简单的I电脑のBLOG</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>202747561@qq.com (简单的I电脑)</managingEditor>
+            <webMaster>202747561@qq.com (简单的I电脑)</webMaster><lastBuildDate>Sat, 21 Mar 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.simpleicomputer.com/tags/tensorboard/" rel="self" type="application/rss+xml" /><item>
+    <title>在同一台电脑的CentOs8虚拟机中搭建并远程访问jupyternotebook和tensorboard</title>
+    <link>https://www.simpleicomputer.com/%E5%9C%A8%E5%90%8C%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91%E7%9A%84centos8%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%AD%E6%90%AD%E5%BB%BA%E5%B9%B6%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AEjupyternotebook%E5%92%8Ctensorboard/</link>
+    <pubDate>Sat, 21 Mar 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://www.simpleicomputer.com/%E5%9C%A8%E5%90%8C%E4%B8%80%E5%8F%B0%E7%94%B5%E8%84%91%E7%9A%84centos8%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%AD%E6%90%AD%E5%BB%BA%E5%B9%B6%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AEjupyternotebook%E5%92%8Ctensorboard/</guid>
+    <description><![CDATA[一、概述 本文 用于在同一台电脑的 CentOs8 虚拟机中搭建并访问 jupyter notebook 和 tensoboard。 初衷 可能是闲的 为了和某些教程中的操作环境保持一致。 二、准备 1.VM 中]]></description>
+</item></channel>
+</rss>
