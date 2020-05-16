@@ -18,7 +18,7 @@
 
 <div align=center><img src="/posts/2020/4-20/图 2-1-0.png" alt="" style="zoom:67%;" /></div>
 
-**1)** 使用任意编译器运行<code>main.exe</code>
+**1)** 使用任意编译器运行<code>main.py</code>
 
 **2)** 在弹出的浏览器下登录 QQ（需要有被爬取用户的空间访问权限）
 
