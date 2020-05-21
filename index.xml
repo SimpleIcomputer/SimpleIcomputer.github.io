@@ -4,7 +4,9 @@
         <link>https://www.simpleicomputer.com/</link>
         <description>简单的I电脑のBLOG</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>202747561@qq.com (简单的I电脑)</managingEditor>
-            <webMaster>202747561@qq.com (简单的I电脑)</webMaster><lastBuildDate>Wed, 06 May 2020 12:23:00 &#43;0800</lastBuildDate><atom:link href="https://www.simpleicomputer.com/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>202747561@qq.com (简单的I电脑)</webMaster><lastBuildDate>Wed, 06 May 2020 12:23:00 &#43;0800</lastBuildDate>
+            <atom:link href="https://www.simpleicomputer.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
     <title>用于爬取QQ空间说说简单信息的爬虫</title>
     <link>https://www.simpleicomputer.com/%E7%94%A8%E4%BA%8E%E7%88%AC%E5%8F%96qq%E7%A9%BA%E9%97%B4%E8%AF%B4%E8%AF%B4%E7%AE%80%E5%8D%95%E4%BF%A1%E6%81%AF%E7%9A%84%E7%88%AC%E8%99%AB/</link>
     <pubDate>Mon, 20 Apr 2020 00:00:00 &#43;0000</pubDate>
